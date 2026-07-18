@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/SomyaPratap/datastructures_2024/tree/master/0279-perfect-squares) |
 | [0403-frog-jump](https://github.com/SomyaPratap/datastructures_2024/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/SomyaPratap/datastructures_2024/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/SomyaPratap/datastructures_2024/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/SomyaPratap/datastructures_2024/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/SomyaPratap/datastructures_2024/tree/master/1143-longest-common-subsequence) |
 ## Recursion
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/SomyaPratap/datastructures_2024/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/SomyaPratap/datastructures_2024/tree/master/0091-decode-ways) |
+| [0516-longest-palindromic-subsequence](https://github.com/SomyaPratap/datastructures_2024/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/SomyaPratap/datastructures_2024/tree/master/1143-longest-common-subsequence) |
 ## Breadth-First Search
 |  |
