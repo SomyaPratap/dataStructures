@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SomyaPratap/datastructures_2024/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/SomyaPratap/datastructures_2024/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/SomyaPratap/datastructures_2024/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/SomyaPratap/datastructures_2024/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/SomyaPratap/datastructures_2024/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/SomyaPratap/datastructures_2024/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/SomyaPratap/datastructures_2024/tree/master/0746-min-cost-climbing-stairs) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SomyaPratap/datastructures_2024/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/SomyaPratap/datastructures_2024/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/SomyaPratap/datastructures_2024/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/SomyaPratap/datastructures_2024/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/SomyaPratap/datastructures_2024/tree/master/0746-min-cost-climbing-stairs) |
 ## String
 |  |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/SomyaPratap/datastructures_2024/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SomyaPratap/datastructures_2024/tree/master/0064-minimum-path-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/SomyaPratap/datastructures_2024/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
